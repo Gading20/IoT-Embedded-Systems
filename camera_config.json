@@ -1,0 +1,41 @@
+{
+  "camera": {
+    "device_id": 0,
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "shutter_speed": 0,
+    "iso": 0,
+    "auto_exposure": true,
+    "brightness": 0,
+    "contrast": 0,
+    "saturation": 0,
+    "sharpness": 0
+  },
+  "capture": {
+    "output_dir": "captures",
+    "filename_prefix": "capture",
+    "burst_interval_ms": 100,
+    "save_format": "png",
+    "jpeg_quality": 95
+  },
+  "display": {
+    "window_width": 1280,
+    "window_height": 720,
+    "show_info_overlay": true,
+    "show_fps": true
+  },
+  "keybindings": {
+    "capture": "SPACE",
+    "burst_start": "b",
+    "quit": "q",
+    "toggle_info": "i",
+    "toggle_fullscreen": "f",
+    "resolution_up": "w",
+    "resolution_down": "s",
+    "brightness_up": "r",
+    "brightness_down": "e",
+    "contrast_up": "t",
+    "contrast_down": "d"
+  }
+}
